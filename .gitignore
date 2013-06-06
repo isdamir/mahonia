@@ -1,0 +1,11 @@
+.*
+*.swp
+*.bak
+*.exe
+*.sublime-workspace
+src
+tmp/*
+!.gitignore
+bin/
+pkg/
+temp/
